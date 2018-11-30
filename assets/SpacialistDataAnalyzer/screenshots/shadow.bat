@@ -1,0 +1,1 @@
+convert %1 ( +clone -background gray -shadow 80x3+5+5 -shadow 80x3-5-5 ) +swap -background none -layers merge +repage %1
